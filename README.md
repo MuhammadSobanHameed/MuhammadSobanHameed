@@ -46,14 +46,13 @@ I love creating end-to-end AI products — from model training to production dep
 - Trained on **2000+ labeled images**  
 - Used **Roboflow** for dataset, **Colab** for training  
 - Achieved high-accuracy real-time detection  
-👉 *(Upload repo with code, dataset link, results videos)*
 
 ---
 
 ### 🔷 **2. Fruit Detection Model (YOLOv8)**
 - Classified apple, banana, orange  
 - Custom dataset + augmentation  
-- End-to-end project (training → testing → app)  
+- End-to-end project (training → testing)  
 
 ---
 
