@@ -71,13 +71,6 @@ I love creating end-to-end AI products — from model training to production dep
 
 ---
 
-## 📊 GitHub Stats  
-![Soban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soban-Hameed&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soban-Hameed&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact  
 📧 **sobanhameed7219@gmail.com**  
 📍 Islamabad, Pakistan  
