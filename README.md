@@ -40,36 +40,6 @@ I love creating end-to-end AI products — from model training to production dep
 
 ---
 
-## 📌 Featured Projects
-
-### 🔷 **1. Real-Time Vehicle Number Plate Detection (YOLOv8)**
-- Trained on **2000+ labeled images**  
-- Used **Roboflow** for dataset, **Colab** for training  
-- Achieved high-accuracy real-time detection  
-
----
-
-### 🔷 **2. Fruit Detection Model (YOLOv8)**
-- Classified apple, banana, orange  
-- Custom dataset + augmentation  
-- End-to-end project (training → testing)  
-
----
-
-### 🔷 **3. AI Doctor Assistant**
-- Collects patient cases pre-consultation  
-- Used **LLMs, Streamlit, FastAPI**  
-- Converts patient complaints into structured data  
-
----
-
-### 🔷 **4. AI Recruitment Module for Odoo**
-- CV parsing, JD generation & candidate matching  
-- Automated AI workflow using OpenAI + Python + Odoo  
-- Reduced HR workload with real-time suggestions  
-
----
-
 ## 📫 Contact  
 📧 **sobanhameed7219@gmail.com**  
 📍 Islamabad, Pakistan  
