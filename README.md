@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Soban Hameed  
+# Hi, I'm Muhammad Soban Hameed  
 ### AI Engineer | Machine Learning Developer | Python Developer  
 
 🚀 I build intelligent systems using LLMs, Computer Vision, and backend automation.  
@@ -6,7 +6,7 @@ I love creating end-to-end AI products — from model training to production dep
 
 ---
 
-## 🔥 About Me  
+##  About Me  
 - 🎓 BS Computer Science (Artificial Intelligence), CGPA 3.56  
 - 👨‍💻 AI Engineer at **Zaryans Consulting Pvt. Ltd.**  
 - 🧠 Skilled in: LLMs, YOLO, NLP, Computer Vision, Odoo AI Integration  
@@ -14,6 +14,10 @@ I love creating end-to-end AI products — from model training to production dep
 - 🌍 Based in Islamabad, Pakistan  
 
 ---
+
+## 🌐 Socials:  
+[LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/muhammad-soban-hameed-53729a269/))  
+
 
 ## 🛠 Tech Stack & Tools  
 
